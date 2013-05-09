@@ -1,6 +1,10 @@
 {
   "name": "eduardocasas-jquery.filestyle",
   "version": "1.0.0",
+  "dependencies": {
+    "jquery": "> 1.6"
+  },
+  "directory": "eduardocasas",
   "commit": "f7efdc127ca30105f5944f069a8422622bf971b2",
   "repository": {
     "type": "git",
