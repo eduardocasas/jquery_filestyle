@@ -9,6 +9,7 @@ This project is a fork from  <a href="https://github.com/tuupola/jquery_filestyl
 <ol>
 <li>Support for latest version of jQuery 1.9 has been added as the original project doesn't work well with it because of the (now removed) $.browser api.</li>
 <li>"bower.json" manifest JSON added</li>
+<li>(yui-compressor) minified version added</li>
 </ol>
 
 <h2>Installation</h2>
