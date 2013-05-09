@@ -57,7 +57,7 @@
                         "opacity": "0.0"
                     });
 
-            if ($.browser.mozilla) {
+            if (navigator.appCodeName === 'Mozilla') {
                 if (/Win/.test(navigator.platform)) {
                     $(self).css("margin-left", "-142px");                    
                 } else {
